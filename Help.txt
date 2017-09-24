@@ -1,0 +1,17 @@
+How to Play:
+The game principle is simple
+The Computer will choose a number of 3 random digits,
+your role is to find it.
+You must first enter a number of 3 digits ONLY.
+(N.B: you can repeat a number two or three times)
+After comparing your number and the number of the Computer,
+the computer will display letters:
+-If it displays the letter "V" it means that THE NUMBER IS CORRECT AND IN ITS PALACE.
+-If it displays the letter "C" it means that THE NUMBER IS CORRECT BUT IT IS NOT IN ITS PLACE.
+The numbers with the letters are the repetition indicators. For example:
+C2 + V1: "C2" indicates that there are two numbers do not have the correct place and you have to change places
+and "V1" indicates that there is a correct number and in its place and it is not touched.
+In case the computer displays "C0 + V0" it means there is no correct number
+Thanks to your previous results you have to guess the correct number
+If the computer displays "V3 + C0" YOU WIN and Found the correct number!
+Enjoy!
